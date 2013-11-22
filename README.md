@@ -1,4 +1,4 @@
-phpMyLearn
+smartBlog
 ==========
 
 learnPhp
