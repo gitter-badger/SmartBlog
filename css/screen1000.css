@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+body{
+margin: 0;
+margin-left: 3%;
+margin-right: 3%;
+}
+li
+{
+display:inline;
+}
+.logoHeader,.logmsgHeader , .logSearchHeader
+{
+	display:inline;
+	margin: 5px 10px;
+}
+.logmsgHeader 
+{
+max-width: 38%;
+word-break: break-word;
+}
+.logoHeader
+{
+max-width: 25%;
+word-break: break-word;
+}
+.logSearchHeader{
+ width:26%
+}

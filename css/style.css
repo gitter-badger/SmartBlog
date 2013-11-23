@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+ .link1{
+ color: #000000;
+ }
+ .link1:HOVER{
+ color: #FF5C00;
+ }
+body{
+	
+	line-height: 33px;
+}

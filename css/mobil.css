@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+body{
+margin: 0;
+margin-left:5%;
+margin-right:5%;
+}
+li
+{
+display:block;
+}
+.logoHeader
+{
+	display:inline;
+}
+.logmsgHeader, .logSearchHeader
+{
+	display:none;
+}
+li{margin: 5px 0 ; padding: 1px}
